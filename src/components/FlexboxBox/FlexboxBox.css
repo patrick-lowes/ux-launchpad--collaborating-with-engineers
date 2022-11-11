@@ -1,0 +1,9 @@
+.FlexboxBox {
+  display: flex;
+}
+
+.FlexboxBox > * {
+  background-color: #ff3399;
+  padding: 1rem;
+  margin: 1rem 0;
+}

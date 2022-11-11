@@ -1,0 +1,18 @@
+/* CSS Reset */
+figure {
+  margin: 0;
+}
+
+/* Article Example CSS */
+.article {
+  display: flex;
+  gap: 6rem;
+  align-items: center;
+  width: 100%;
+  margin: 4rem auto;
+  max-width: 64rem;
+}
+
+.content {
+  line-height: 1.5;
+}
